@@ -2,7 +2,19 @@
 My name is Tien Dang. I am a Fresher Software Engineer. I am interested in the following topics: Deep Learning for Computer Vision, LLM, Reinforcement Learning.<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dangtien1101/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/vippergod12/) [![Youtube]() Youtube](https://www.youtube.com/@tiendang.1101)
+<p align="center">
+  <a href="https://www.linkedin.com/in/dangtien1101/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://github.com/vippergod12/">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.youtube.com/@tiendang.1101">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
 
 <a href="https://github.com/vippergod12/my-portfolio/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
