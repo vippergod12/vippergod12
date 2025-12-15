@@ -2,7 +2,7 @@
 My name is Tien Dang. I am a Fresher Software Engineer. I am interested in the following topics: Deep Learning for Computer Vision, LLM, Reinforcement Learning.<br>
 ## 📫 How to reach me: 
 
-<p align="center">
+<p align="">
   <a href="https://www.linkedin.com/in/dangtien1101/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
