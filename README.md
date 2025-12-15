@@ -1,11 +1,16 @@
-<h3>🚀 My Projects</h3>
+### WELCOME TO MY PAGE 👋👋👋
+My name is Viet Nguyen. I am a Senior AI engineer at Sporttotal. I am interested in the following topics: Deep Learning for Computer Vision, LLM, Reinforcement Learning.<br>
+## 📫 How to reach me: 
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/vippergod12/my-portfolio">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vippergod12&repo=my-portfolio&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-</table>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dangtien1101/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/vippergod12/) [![Youtube]() Youtube]([https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw](https://www.youtube.com/@tiendang.1101))
+
+
+
+![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietnh1009&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+<a href="https://github.com/vippergod12/my-portfolio/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vippergod12&repo=my-portfolio&theme=radical" />
+</a>    
+
+</a>
