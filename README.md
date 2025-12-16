@@ -30,13 +30,13 @@ My name is Tien Dang. I am a Fresher Software Engineer. I am interested in the f
 
 <a href="https://github.com/vippergod12/saltandmilk-be">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vippergod12&repo=saltandmilk-be&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vippergod12&repo=saltandmilk-be&theme=merko" />
 </a>    
 
 
 <a href="https://github.com/vippergod12/saltandmilk-FE">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vippergod12&repo=saltandmilk-FE&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vippergod12&repo=saltandmilk-FE&theme=gruvbox" />
 </a>    
 
 
