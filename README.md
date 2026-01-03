@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Tien Dang. I am a Fresher Software Engineer. I am interested in the following topics: Deep Learning for Computer Vision, LLM, Reinforcement Learning.<br>
+My name is Tien Dang. I am a Fresher Software Engineer. I am interested in the following topics: Java, Spring boot, Deep Learning for Computer Vision, LLM, Reinforcement Learning.<br>
 ## 📫 How to reach me: 
 
 <p align="">
